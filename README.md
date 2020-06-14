@@ -1,1 +1,6 @@
 # responsive-portfolio
+This is a bootrap responsive portfolio. 
+
+I am currently a student at the Rutgers Coding Bootcamp. This is my first attempt at making at a portfolio. The porfolio utlized bootstrap in order to make the pages. I created 3 files, index.html, contact.html and porfolio.html. An assets folder was created in order to hold the images used for the porfolio. After running all three files through an html validator numerous mistages were found. Many </div> were found that were not attached to any codes. The image 'abstract-cean' would not go through until a dash was added in the middle, initially the file only had a space. In the contact page, the same label was used where is should not have been, that was fixed. 
+
+Rows and colums were utilized in changing the look of the page depending on what format it is being viewed. When used on a mobile device, the information takes up the entire screen. Anything bigger than a mobile was fitted to have margins on the side. The navbar successfully links each page to each other. Links in the "about me" were fixed, they now work. Porfolio page is merely for show, links do not actually work. 
